@@ -1,0 +1,226 @@
+@charset "UTF-8"; 
+body{
+margin: 0px;
+padding: 0px;
+background-color: white;
+
+}
+.head{
+    
+    text-align: center;
+	padding-top: 30px;
+    min-height: 250px;
+	background-repeat:no-repeat;
+	background-position: center;
+    
+   
+    
+}
+.nav1{
+		background-color: black;
+        color: white;
+	    text-align: center;
+	    background-repeat: no-repeat;
+		
+}
+.navbtn a:link, a:visited{
+    
+	color: white;
+	padding: 10px 20px ;
+	display: inline-block;
+	text-decoration:none;
+	text-align: center;
+	width: 100%;
+    font-size: 15pt;
+	}
+
+.navbtn a:hover, a:active{
+	background-color: white;
+    color: black
+    
+   
+	}
+
+.intro{
+    background-color: transparent;
+    padding-top: 30px;
+}
+
+.foot{
+    background-color: lightgray;
+    color: black;
+    height: 65px;
+    background-position: right;
+    text-align: right;
+    
+    margin-top: 20px;
+    padding-right: 20px;
+        
+    font-size: 10pt;
+    width: 100%;
+}
+.nav2{
+    background-image:url("images/aboutimg.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    
+	margin-top: 20px;
+    margin-bottom: 20px;
+    height: 400px;
+    padding-left: 20px;
+    padding-right: 20px;   
+}
+
+.nav3{
+    background-image:url("images/whiskey.jpg");
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+}
+
+.nav4{
+     background-image:url("images/vodka.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+     
+    
+}   
+
+.nav5{
+    background-image:url("images/Brands-Tequila.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+}
+
+.nav6{
+    background-image:url("images/wheatb.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+    
+}
+
+.nav7{
+    background-image:url("images/Boston-Beer-Co-lineup1.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+   
+}
+
+.nav8{
+    background-image:url("images/Summer-beers.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+}
+.nav9{
+    background-image: url("images/whitewine.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+    
+}
+.wtext{
+    padding-top: 20px;
+    text-align: left;
+    color: black;
+    border: black;
+    
+}
+.nav10{
+    background-image:url("images/Australian-red-wine-booze-Jamie-Goode-587085.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+   padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+    
+}
+.nav11{
+    background-image:url("images/rosewine.jpg");
+    color:white;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left:30px;
+    padding-right: 10px;
+    width: 100%;
+    height: 300px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    
+    
+}
+.map{
+	padding-left: 15px;
+	padding-top: 15px;
+}
+.cont{
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-top: 30px;
+
+}
